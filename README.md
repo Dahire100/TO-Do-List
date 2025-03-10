@@ -63,7 +63,7 @@ python todo_ai.py
 ---
 
 ## 📸 Screenshots
-![To-Do List with AI](https://your-image-link-here)
+![To-Do List with AI](https://github.com/Dahire100/TO-Do-List/blob/main/Screenshot%20.jpg)
 
 ---
 
